@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-* [🔆1. Intro](#)
-* [🔆2. Qué construí ⌨](#)
-* [🔆3. Objetivo del proyecto](#)
+* [🔆1. Intro](https://github.com/BiancaFernandezQ/ClonGoogle#1-intro)
+* [🔆2. Qué construí ⌨](https://github.com/BiancaFernandezQ/ClonGoogle#2-qu%C3%A9-constru%C3%AD)
+* [🔆3. Objetivo del proyecto](https://github.com/BiancaFernandezQ/ClonGoogle#3-objetivo-del-proyecto)
 
 ****
 
